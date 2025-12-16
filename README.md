@@ -20,3 +20,8 @@ and Android application vetting.
  This project demonstrates the integration of open-source forensic frameworks with
 automated visualization and reporting mechanisms, providing a reliable and extensible
 platform for Android application forensics.
+
+
+
+AUTHOR
+MEGHA SAJEEV
